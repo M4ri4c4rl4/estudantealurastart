@@ -1,5 +1,6 @@
-# estudantealurastart
-bem vindos ao meu perfil. 
+# estudantealurastart 
+
+BEM VINDOS AO MEU PERFIL  
 Me chamo Maria Eduarda 
 estou estudando no alura 
 estou me desenvolvendo na linguagem JavaScript
